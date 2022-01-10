@@ -6,7 +6,7 @@
 
 - kubectl exec webapp ls
 - kubectl -it exec webapp sh 
-
+- 
 #### Services
 
 - Is a long runing object, will have an IP address stable fixPort
@@ -38,3 +38,5 @@ export MINIKUBE_ACTIVE_DOCKERD="minikube"
 
 - Simple source of truth
 - Maps income requests to microservices
+
+#### 
